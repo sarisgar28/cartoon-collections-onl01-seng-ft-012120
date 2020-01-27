@@ -1,6 +1,6 @@
 def roll_call_dwarves = ["doc","dopey","bashful","grumpy"]
   puts "Hi Snow white, my name is #{name}!"
-  
+  each_with_index
 end
 
 def summon_captain_planet# code an argument here
