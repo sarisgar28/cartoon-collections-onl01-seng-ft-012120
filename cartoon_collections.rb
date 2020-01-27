@@ -7,6 +7,7 @@ end
 
 def summon_captain_planet(planeteer_calls 
   #=> ["earth!","wind!", "fire!","water!","Heart!")
+  puts .map ["0,1,2,3,4"]
 end
 
 def long_planeteer_calls# code an argument here
