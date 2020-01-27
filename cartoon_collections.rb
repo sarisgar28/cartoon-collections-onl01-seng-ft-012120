@@ -1,9 +1,13 @@
-def roll_call_dwarves# code an argument here
-  # Your code here
+def roll_call_dwarves = ["doc","dopey","bashful","grumpy"]
+  puts "Hi Snow white, my name is #{name}!"
+  each_with_index |name| 
+ counter += 0 
+ #=> {"i:doc","i.dopey","i.bashful","i.grumpy"}
 end
 
-def summon_captain_planet# code an argument here
-  # Your code here
+def summon_captain_planet(planeteer_calls 
+  #=> ["earth!","wind!", "fire!","water!","Heart!")
+  puts .map ["0,1,2,3,4"]
 end
 
 def long_planeteer_calls# code an argument here
